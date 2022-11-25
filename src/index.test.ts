@@ -1,4 +1,3 @@
-import jest from "jest";
 import { add } from "./index";
 
 describe("Add", () => {
